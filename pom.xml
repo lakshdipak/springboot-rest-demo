@@ -11,7 +11,7 @@
     <groupId>com.infy</groupId>
     <artifactId>springboot-rest-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>springboot-rest-demo</name>
     <description>Demo project for RESTFul service using spring boot</description>
 
