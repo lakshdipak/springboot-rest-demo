@@ -5,5 +5,4 @@ WORKDIR /usr/local/service
 RUN chmod 777 -R /usr/local/service
 RUN chmod 777 springboot-rest-demo-0.0.1-SNAPSHOT.jar
 EXPOSE 8080
-#testing
 ENTRYPOINT ["java","-jar","springboot-rest-demo-0.0.1-SNAPSHOT.jar"]
